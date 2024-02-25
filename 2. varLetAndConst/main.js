@@ -2,4 +2,14 @@
 // Can be changed in future - variable
 
 const accountId = 56;
-console.log(accountId);
+let accountEmail = "sumit@gmail.com"
+var accountPassword = "12345"
+accountCity = "Anuppur"
+
+
+// accoundId = 2; can't change as const keyword is there
+console.log(accountId)
+accountEmail = "sumit@hotmail.com"
+accountPassword = "123456"
+
+
